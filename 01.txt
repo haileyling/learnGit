@@ -7,4 +7,8 @@ qnmb!!!!ttttt
 qnmb!!!!ttttt
 qnmb!!!!ttttt
 qnmb!!!!5555
+<<<<<<< HEAD
 developtesint
+=======
+master
+>>>>>>> origin/master
